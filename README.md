@@ -7,4 +7,4 @@ The project is structured as follows:
 
 * README.md: This file, providing an overview of the project.
 * ncdex_stock_data.csv: Dataset containing NCDEx stock data.
-* analyze_stock_data.py: Python script for data preprocessing, EDA, and model training.
+* Commodity_prices_prediction.ipynb: Python notebook script for data preprocessing, EDA, and model training.
